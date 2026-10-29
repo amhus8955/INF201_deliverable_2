@@ -1,0 +1,7 @@
+item,sales_count,refund_count,refund_ratio
+Cappuccino,93,15,0.1613
+Croissant,88,24,0.2727
+Espresso,78,21,0.2692
+Latte,74,22,0.2973
+Muffin,65,15,0.2308
+Sandwich,80,20,0.25
